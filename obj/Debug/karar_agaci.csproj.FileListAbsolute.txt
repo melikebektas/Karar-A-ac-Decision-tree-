@@ -1,0 +1,30 @@
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\bin\Debug\karar_agaci.exe.config
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\bin\Debug\karar_agaci.exe
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\bin\Debug\karar_agaci.pdb
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\obj\Debug\karar_agaci.csprojResolveAssemblyReference.cache
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\obj\Debug\karar_agaci.Form1.resources
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\obj\Debug\karar_agaci.Properties.Resources.resources
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\obj\Debug\karar_agaci.csproj.GenerateResource.Cache
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\obj\Debug\karar_agaci.exe
+C:\Users\melike\Desktop\karar_agaci\karar_agaci\obj\Debug\karar_agaci.pdb
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci\karar_agaci\bin\Debug\karar_agaci.exe.config
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci\karar_agaci\obj\Debug\karar_agaci.exe
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci\karar_agaci\obj\Debug\karar_agaci.pdb
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\bin\Debug\karar_agaci.exe.config
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.exe
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.pdb
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\bin\Debug\karar_agaci.exe
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\bin\Debug\karar_agaci.pdb
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.csprojResolveAssemblyReference.cache
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.Form1.resources
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.Properties.Resources.resources
+C:\Users\melike\Desktop\notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.csproj.GenerateResource.Cache
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\bin\Debug\karar_agaci.exe.config
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.exe
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.pdb
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\bin\Debug\karar_agaci.exe
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\bin\Debug\karar_agaci.pdb
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.csprojResolveAssemblyReference.cache
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.Form1.resources
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.Properties.Resources.resources
+C:\Users\melike\Desktop\düzce-notlar\4.sınıf\1.dönem\makine öğrenmesine giriş\karar_agaci(final_odevi)\karar_agaci\obj\Debug\karar_agaci.csproj.GenerateResource.Cache
